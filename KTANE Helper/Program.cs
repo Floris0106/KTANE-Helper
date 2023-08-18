@@ -180,7 +180,7 @@ namespace KTANEHelper
 						Console.Clear();
 						Console.WriteLine("#########################################");
 						Console.WriteLine("#                                       #");
-						Console.WriteLine("#           KTANE Helper v1.0           #");
+						Console.WriteLine("#           KTANE Helper v1.2           #");
 						Console.WriteLine("#    by Floris van Onna (Floris0106)    #");
 						Console.WriteLine("#                                       #");
 						Console.WriteLine("#########################################");
